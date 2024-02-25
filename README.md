@@ -7,7 +7,13 @@ patientdata is the training dataset
 newdataset is test dataset
 they are in a 80:20 train:test ratio
 data is not accurate 
+
+
+
 **MODEL RESULTS DEPEND ON DATASET GIVEN**
+
+
+
 ![image](https://github.com/admiral-vader88/medicalpredict/assets/81103846/1e21cfd2-ccba-417b-a00c-6760161aa648)
 
 
