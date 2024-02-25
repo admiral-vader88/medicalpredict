@@ -37,3 +37,11 @@ While machine learning holds promise in healthcare, several challenges must be a
 
 **Conclusion:**
 In conclusion, the code exemplifies the integration of machine learning techniques into healthcare for disease prediction based on symptoms. While offering significant potential benefits, the application of machine learning in healthcare necessitates careful consideration of data quality, interpretability, and ethical implications. Nevertheless, it represents a promising approach to enhancing diagnostic accuracy, improving patient outcomes, and advancing personalized medicine in the healthcare domain.
+
+patientdata is the training dataset 
+newdataset is test dataset
+they are in a 80:20 train:test ratio
+data is not accurate 
+**MODEL RESULTS DEPEND ON DATASET GIVEN**
+![Uploading image.png…]()
+
