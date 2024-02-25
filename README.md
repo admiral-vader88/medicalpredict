@@ -20,3 +20,8 @@ they are in a 80:20 train:test ratio
 ![image](https://github.com/admiral-vader88/medicalpredict/assets/81103846/1e21cfd2-ccba-417b-a00c-6760161aa648)
 
 
+
+![image](https://github.com/admiral-vader88/medicalpredict/assets/81103846/cbabf579-233f-419e-a52f-0f6c1edc1ab5)
+
+
+
