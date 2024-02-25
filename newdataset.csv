@@ -1,0 +1,31 @@
+Name,Age,Gender,Address,Contact_Number,Disease,Symptom,Time_Period,Med_Taken,Doctor_Consulted
+Sophia Brown,74,Male,"Toronto, Country",3340533579,Allergies,"Fatigue, Fever",2,Losartan,True
+Sophia Wilson,29,Female,"Paris, Country",8129615798,Depression,"Fever, Dizziness, Headache, Insomnia",13,Losartan,False
+James Thomas,31,Male,"Toronto, Country",0928939209,Migraine,"Fever, Cough",15,Sumatriptan,True
+Benjamin Thomas,73,Female,"Berlin, Country",3753042963,Allergies,"Cough, Dizziness",3,Albuterol,True
+Isabella Brown,63,Male,"Moscow, Country",6110626521,Arthritis,"Nausea, Fever, Headache",22,Amoxicillin,True
+Isabella Jackson,89,Female,"Toronto, Country",9542772763,Bronchitis,"Nausea, Joint pain, Rash, Fatigue, Headache",24,Losartan,True
+Elijah Moore,31,Male,"Beijing, Country",9092310145,Pneumonia,"Cough, Headache, Fever, Shortness of breath, Joint pain",11,Prednisone,False
+Olivia Brown,35,Female,"Rome, Country",5220191830,Migraine,"Nausea, Cough, Joint pain, Rash",28,Amoxicillin,True
+James Moore,80,Female,"Rome, Country",8679048727,Migraine,"Fatigue, Rash, Cough, Fever",22,Sertraline,True
+Benjamin Anderson,46,Female,"Moscow, Country",2691551170,Influenza,"Headache, Insomnia, Fatigue",14,Sumatriptan,False
+Sophia Taylor,84,Male,"Tokyo, Country",9880840394,Hypertension,"Fever, Rash",9,Azithromycin,False
+Liam Jackson,80,Female,"Moscow, Country",5839714474,Migraine,"Rash, Joint pain",1,Sumatriptan,True
+Liam Davis,62,Female,"Moscow, Country",5683408261,Migraine,"Headache, Dizziness, Rash, Joint pain",20,Amoxicillin,False
+Ava Wilson,74,Female,"Tokyo, Country",1234162565,Bronchitis,"Fatigue, Headache, Dizziness",25,Sumatriptan,False
+Elijah Thomas,71,Male,"Beijing, Country",4915030865,Depression,"Joint pain, Nausea",29,Albuterol,True
+Ava Thomas,56,Male,"Berlin, Country",7968581224,Asthma,Fatigue,8,Ibuprofen,True
+Mia Miller,83,Male,"Tokyo, Country",5812141118,Allergies,"Nausea, Cough",13,Azithromycin,False
+James White,59,Female,"London, Country",1917028215,Depression,"Dizziness, Joint pain",16,Sumatriptan,True
+Liam White,81,Female,"Rome, Country",0534242952,Hypertension,"Fatigue, Nausea",22,Ibuprofen,True
+William Davis,59,Female,"Tokyo, Country",6891264324,Diabetes,Shortness of breath,16,Ibuprofen,True
+Ava Thomas,49,Female,"Sydney, Country",6074714765,Arthritis,"Shortness of breath, Fatigue, Rash, Joint pain",21,Sumatriptan,True
+Liam Taylor,42,Female,"Paris, Country",1129111992,Hypertension,"Cough, Insomnia, Fatigue",17,Oseltamivir,False
+Elijah Davis,61,Female,"Paris, Country",5752489143,Hypertension,"Rash, Insomnia, Cough, Fever",29,Metformin,True
+Benjamin Wilson,54,Male,"Moscow, Country",0819869599,Diabetes,"Rash, Fever",4,Amoxicillin,True
+Sophia White,83,Female,"London, Country",4594374255,Allergies,Insomnia,22,Prednisone,True
+James Brown,27,Female,"Berlin, Country",4562777184,Migraine,Fever,15,Losartan,False
+James Jackson,61,Female,"Dubai, Country",9543904708,Influenza,"Joint pain, Shortness of breath, Rash, Fatigue",1,Sertraline,True
+Mia Jackson,47,Female,"Paris, Country",1357936993,Pneumonia,"Headache, Shortness of breath, Rash, Nausea",12,Amoxicillin,False
+Isabella Davis,48,Male,"Moscow, Country",3718826148,Depression,"Dizziness, Joint pain, Cough, Shortness of breath",18,Azithromycin,False
+Elijah Miller,64,Male,"London, Country",7836893332,Asthma,"Fever, Shortness of breath",18,Albuterol,False
